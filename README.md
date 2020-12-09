@@ -1,1 +1,3 @@
-# cs50-Seminar
+## cs50-Seminar
+
+Test the seminar
