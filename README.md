@@ -1,3 +1,4 @@
 ## cs50-Seminar
 
-Test the seminar
+This file is used for some test on how version control is used.
+Specifically Git and GitHub
